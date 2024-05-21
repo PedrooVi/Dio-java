@@ -18,7 +18,7 @@ public class ContaTerminal {
         System.out.println("Agora, digite o numero de sua conta: ");
         int numeroConta = scanner.nextInt();
 
-        System.out.println("Dihite seu nome: ");
+        System.out.println("Digite seu nome: ");
         String nome = scanner.next();
 
         // Exibir a menssagem da conta criada.
